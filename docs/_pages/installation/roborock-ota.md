@@ -80,7 +80,7 @@ You can now return to the [getting started guide](https://valetudo.cloud/pages/g
 
  * Firewall active? - Disable your personal firewall.
  * Using a VM to flash the image? - Try to flash the image from your Host
- * Your PC does not know how to route, is more than one network interfaces active? Maybe disable LAN?
+ * Your PC does not know how to route, is more than one network interfaces active? Maybe disable LAN, and or IPv6 on interface?
  * Did you make an update of the robot firmware via the Xiaomi App? Then go back to original using factory reset: while holding the plug button shortly press the reset button.
  * Distance between WiFi devices is to big. Try putting the robo near your PC.
  * Battery is lower than 20%. Please Charge. Place the Vacuum in the dock.
